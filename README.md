@@ -28,4 +28,4 @@ If you want to run any of these projects on your own machine:
 1. **Ensure Python is installed** ([Download Python](https://www.python.org/))
 2. **Clone this repository:**
    ```bash
-   git clone [https://github.com/relebogilemampuru-droid/GitHub.git](https://github.com/Yrelebogilemampuru-droid/GitHub.git)
+   git clone [https://github.com/relebogilemampuru-droid/Python-Projects.git](https://github.com/Yrelebogilemampuru-droid/Python-Projects.git)
